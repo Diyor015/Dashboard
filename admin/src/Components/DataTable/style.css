@@ -1,0 +1,56 @@
+.CreateProductTexts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Product {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.dataTableGrid {
+    border: 1px solid #9F9F9F;
+    padding: 40px 0 40px 0;
+    border-bottom: none;
+}
+
+.inp{
+    padding: 10px 130px 10px 20px;
+    outline: none;
+    font-weight: 400;
+    font-size: 17px;
+    margin-left: 30px;
+    border: 2px solid #9F9F9F;
+    border-radius: 5px;
+}
+
+.inputSearch {
+    display: flex;
+    align-items: center;
+}
+
+.searchIcon {
+    background: #065374;
+    margin-left: 10px;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.allProducts {
+    display: flex;
+    margin-right: 20px;
+}
+
+.borderProducts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.StyledTableCell{
+    background:  #065374 !important;
+}
